@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.nav_body{
+    background-color: #22223B;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h1{
+    padding:1rem;
+    color:white;
+}
